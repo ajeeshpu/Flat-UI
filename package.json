@@ -15,5 +15,10 @@
   "license": "CC BY 3.0 and MIT",
   "bugs": {
     "url": "https://github.com/designmodo/Flat-UI/issues"
+  },
+  "devDependencies": {
+    "grunt-cli": "~0.1.11",
+    "grunt": "~0.4.2",
+    "grunt-contrib-less": "~0.9.0"
   }
 }
